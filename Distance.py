@@ -97,3 +97,5 @@ print "Location with minimum cost: " + str(min(c, key=lambda k: c[k]))
 #Pring lat and long of location with minimum cost
 print "Longitude: " + str(df["long"][min(c, key=lambda k: c[k])])
 print "Latitude: " + str(df["lat"][min(c, key=lambda k: c[k])])
+
+#BUNCH OF EDITS TO BE ADDED BELOW
